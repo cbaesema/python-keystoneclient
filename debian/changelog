@@ -1,1 +1,5 @@
 cisco-python-keystoneclient (0.0.1) stable; urgency=low
+
+  * Initial release.
+
+ -- Clifford Baeseman <ccbaeseman@gmail.com>  Wed, 25 Jul 2012 17:32:53 +0200
